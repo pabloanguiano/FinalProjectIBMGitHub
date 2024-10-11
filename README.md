@@ -1,2 +1,2 @@
 # FinalProjectIBMGitHub
-Final project for course IMB Git Hub
+Final project for course IBM Git Hub
